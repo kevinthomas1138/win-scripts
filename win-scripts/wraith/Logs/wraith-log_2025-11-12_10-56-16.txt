@@ -1,0 +1,85 @@
+﻿2025-11-12 10:56:16 [INFO] Logger initialized at C:\scripts\win-scripts\wraith\Logs\wraith-log_2025-11-12_10-56-16.txt
+2025-11-12 10:56:16 [INFO] Starting Windows de-bloat routine (profile 3).
+2025-11-12 10:56:16 [INFO] Removing bundled AppX packages...
+2025-11-12 10:56:17 [INFO] AppX package 'Microsoft.3DBuilder' is not installed. Skipping.
+2025-11-12 10:56:17 [INFO] AppX cleanup for 'Microsoft.3DBuilder' completed successfully.
+2025-11-12 10:56:17 [INFO] AppX package 'Microsoft.BingFinance' is not installed. Skipping.
+2025-11-12 10:56:17 [INFO] AppX cleanup for 'Microsoft.BingFinance' completed successfully.
+2025-11-12 10:56:17 [INFO] AppX package 'Microsoft.BingNews' is not installed. Skipping.
+2025-11-12 10:56:17 [INFO] AppX cleanup for 'Microsoft.BingNews' completed successfully.
+2025-11-12 10:56:17 [INFO] AppX package 'Microsoft.BingWeather' is not installed. Skipping.
+2025-11-12 10:56:17 [INFO] AppX cleanup for 'Microsoft.BingWeather' completed successfully.
+2025-11-12 10:56:17 [WARN] AppX cleanup for 'Microsoft.DesktopAppInstaller' failed: Removal failed. Please contact your software vendor.
+
+Deployment Remove operation with target volume C: on Package Microsoft.DesktopAppInstaller_1.27.349.0_x64__8wekyb3d8bbwe from:   failed with error 0x80070032. See http://go.microsoft.com/fwlink/?LinkId=235160 for help diagnosing app deployment issues.
+2025-11-12 10:56:17 [INFO] AppX package 'Microsoft.GetHelp' is not installed. Skipping.
+2025-11-12 10:56:17 [INFO] AppX cleanup for 'Microsoft.GetHelp' completed successfully.
+2025-11-12 10:56:17 [INFO] AppX package 'Microsoft.Getstarted' is not installed. Skipping.
+2025-11-12 10:56:17 [INFO] AppX cleanup for 'Microsoft.Getstarted' completed successfully.
+2025-11-12 10:56:18 [INFO] AppX package 'Microsoft.Microsoft3DViewer' is not installed. Skipping.
+2025-11-12 10:56:18 [INFO] AppX cleanup for 'Microsoft.Microsoft3DViewer' completed successfully.
+2025-11-12 10:56:18 [INFO] AppX package 'Microsoft.MicrosoftOfficeHub' is not installed. Skipping.
+2025-11-12 10:56:18 [INFO] AppX cleanup for 'Microsoft.MicrosoftOfficeHub' completed successfully.
+2025-11-12 10:56:18 [INFO] AppX package 'Microsoft.MicrosoftSolitaireCollection' is not installed. Skipping.
+2025-11-12 10:56:18 [INFO] AppX cleanup for 'Microsoft.MicrosoftSolitaireCollection' completed successfully.
+2025-11-12 10:56:18 [INFO] AppX package 'Microsoft.MicrosoftStickyNotes' is not installed. Skipping.
+2025-11-12 10:56:18 [INFO] AppX cleanup for 'Microsoft.MicrosoftStickyNotes' completed successfully.
+2025-11-12 10:56:18 [INFO] AppX package 'Microsoft.MixedReality.Portal' is not installed. Skipping.
+2025-11-12 10:56:18 [INFO] AppX cleanup for 'Microsoft.MixedReality.Portal' completed successfully.
+2025-11-12 10:56:18 [INFO] AppX package 'Microsoft.Office.OneNote' is not installed. Skipping.
+2025-11-12 10:56:18 [INFO] AppX cleanup for 'Microsoft.Office.OneNote' completed successfully.
+2025-11-12 10:56:18 [INFO] AppX package 'Microsoft.People' is not installed. Skipping.
+2025-11-12 10:56:18 [INFO] AppX cleanup for 'Microsoft.People' completed successfully.
+2025-11-12 10:56:18 [INFO] AppX package 'Microsoft.SkypeApp' is not installed. Skipping.
+2025-11-12 10:56:18 [INFO] AppX cleanup for 'Microsoft.SkypeApp' completed successfully.
+2025-11-12 10:56:19 [INFO] AppX package 'Microsoft.Tips' is not installed. Skipping.
+2025-11-12 10:56:19 [INFO] AppX cleanup for 'Microsoft.Tips' completed successfully.
+2025-11-12 10:56:19 [INFO] AppX package 'Microsoft.Xbox.TCUI' is not installed. Skipping.
+2025-11-12 10:56:19 [INFO] AppX cleanup for 'Microsoft.Xbox.TCUI' completed successfully.
+2025-11-12 10:56:19 [INFO] AppX package 'Microsoft.XboxApp' is not installed. Skipping.
+2025-11-12 10:56:19 [INFO] AppX cleanup for 'Microsoft.XboxApp' completed successfully.
+2025-11-12 10:56:19 [INFO] AppX package 'Microsoft.XboxGameOverlay' is not installed. Skipping.
+2025-11-12 10:56:19 [INFO] AppX cleanup for 'Microsoft.XboxGameOverlay' completed successfully.
+2025-11-12 10:56:19 [INFO] AppX package 'Microsoft.XboxGamingOverlay' is not installed. Skipping.
+2025-11-12 10:56:19 [INFO] AppX cleanup for 'Microsoft.XboxGamingOverlay' completed successfully.
+2025-11-12 10:56:19 [INFO] AppX package 'Microsoft.XboxSpeechToTextOverlay' is not installed. Skipping.
+2025-11-12 10:56:19 [INFO] AppX cleanup for 'Microsoft.XboxSpeechToTextOverlay' completed successfully.
+2025-11-12 10:56:19 [INFO] AppX package 'Microsoft.YourPhone' is not installed. Skipping.
+2025-11-12 10:56:19 [INFO] AppX cleanup for 'Microsoft.YourPhone' completed successfully.
+2025-11-12 10:56:19 [INFO] AppX package 'Microsoft.ZuneMusic' is not installed. Skipping.
+2025-11-12 10:56:19 [INFO] AppX cleanup for 'Microsoft.ZuneMusic' completed successfully.
+2025-11-12 10:56:20 [INFO] AppX package 'Microsoft.ZuneVideo' is not installed. Skipping.
+2025-11-12 10:56:20 [INFO] AppX cleanup for 'Microsoft.ZuneVideo' completed successfully.
+2025-11-12 10:56:20 [INFO] Disabling optional Windows features...
+2025-11-12 10:56:20 [INFO] Optional feature 'MicrosoftWindowsPowerShellV2' not found. Skipping.
+2025-11-12 10:56:20 [INFO] Disable optional feature 'MicrosoftWindowsPowerShellV2' completed successfully.
+2025-11-12 10:56:20 [INFO] Optional feature 'MicrosoftWindowsPowerShellV2Root' not found. Skipping.
+2025-11-12 10:56:20 [INFO] Disable optional feature 'MicrosoftWindowsPowerShellV2Root' completed successfully.
+2025-11-12 10:56:20 [INFO] Optional feature 'Printing-XPSServices-Features' is already disabled. Skipping.
+2025-11-12 10:56:20 [INFO] Disable optional feature 'Printing-XPSServices-Features' completed successfully.
+2025-11-12 10:56:20 [INFO] Optional feature 'WorkFolders-Client' is already disabled. Skipping.
+2025-11-12 10:56:20 [INFO] Disable optional feature 'WorkFolders-Client' completed successfully.
+2025-11-12 10:56:21 [INFO] Optional feature 'FaxServicesClientPackage' not found. Skipping.
+2025-11-12 10:56:21 [INFO] Disable optional feature 'FaxServicesClientPackage' completed successfully.
+2025-11-12 10:56:21 [INFO] Optional feature 'WCF-Services45' is already disabled. Skipping.
+2025-11-12 10:56:21 [INFO] Disable optional feature 'WCF-Services45' completed successfully.
+2025-11-12 10:56:21 [INFO] Disabling scheduled tasks...
+2025-11-12 10:56:22 [INFO] Scheduled task 'Microsoft\\Office\\OfficeTelemetryAgentFallBack2016' not found. Skipping.
+2025-11-12 10:56:22 [INFO] Disable scheduled task 'Microsoft\\Office\\OfficeTelemetryAgentFallBack2016' completed successfully.
+2025-11-12 10:56:23 [INFO] Scheduled task 'Microsoft\\Office\\OfficeTelemetryAgentLogOn2016' not found. Skipping.
+2025-11-12 10:56:23 [INFO] Disable scheduled task 'Microsoft\\Office\\OfficeTelemetryAgentLogOn2016' completed successfully.
+2025-11-12 10:56:23 [INFO] Scheduled task 'Microsoft\\Windows\\Application Experience\\Microsoft Compatibility Appraiser' not found. Skipping.
+2025-11-12 10:56:23 [INFO] Disable scheduled task 'Microsoft\\Windows\\Application Experience\\Microsoft Compatibility Appraiser' completed successfully.
+2025-11-12 10:56:24 [INFO] Scheduled task 'Microsoft\\Windows\\Application Experience\\ProgramDataUpdater' not found. Skipping.
+2025-11-12 10:56:24 [INFO] Disable scheduled task 'Microsoft\\Windows\\Application Experience\\ProgramDataUpdater' completed successfully.
+2025-11-12 10:56:25 [INFO] Scheduled task 'Microsoft\\Windows\\Customer Experience Improvement Program\\Consolidator' not found. Skipping.
+2025-11-12 10:56:25 [INFO] Disable scheduled task 'Microsoft\\Windows\\Customer Experience Improvement Program\\Consolidator' completed successfully.
+2025-11-12 10:56:26 [INFO] Scheduled task 'Microsoft\\Windows\\Customer Experience Improvement Program\\UsbCeip' not found. Skipping.
+2025-11-12 10:56:26 [INFO] Disable scheduled task 'Microsoft\\Windows\\Customer Experience Improvement Program\\UsbCeip' completed successfully.
+2025-11-12 10:56:27 [INFO] Scheduled task 'Microsoft\\Windows\\Maps\\MapsUpdateTask' not found. Skipping.
+2025-11-12 10:56:27 [INFO] Disable scheduled task 'Microsoft\\Windows\\Maps\\MapsUpdateTask' completed successfully.
+2025-11-12 10:56:27 [INFO] Scheduled task 'Microsoft\\XblGameSave\\XblGameSaveTask' not found. Skipping.
+2025-11-12 10:56:27 [INFO] Disable scheduled task 'Microsoft\\XblGameSave\\XblGameSaveTask' completed successfully.
+2025-11-12 10:56:27 [INFO] Attempting to remove OneDrive...
+2025-11-12 10:56:34 [INFO] OneDrive removal completed successfully.
+2025-11-12 10:56:34 [INFO] Windows de-bloat routine completed.
